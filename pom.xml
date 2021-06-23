@@ -39,11 +39,11 @@
                 </configuration>
             </plugin>
         </plugins>
-        <properties>
+    </build>
+            <properties>
   <sonar.projectKey>LaurenSinaPiccioni_fake_project</sonar.projectKey>
   <sonar.organization>laurensinapiccioni</sonar.organization>
   <sonar.host.url>https://squad-1-core.sc-dev.io</sonar.host.url>
 </properties>
-    </build>
 </project>
 
