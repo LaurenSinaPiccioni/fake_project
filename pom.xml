@@ -35,15 +35,15 @@
                             <name>listener</name>
                             <value>org.sonar.java.jacoco.JUnitListener</value>
                         </property>
+                        <properties>
+  <sonar.projectKey>LaurenSinaPiccioni_fake_project</sonar.projectKey>
+  <sonar.organization>laurensinapiccioni</sonar.organization>
+  <sonar.host.url>https://squad-1-core.sc-dev.io</sonar.host.url>
+</properties>
                     </properties>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-            <properties>
-  <sonar.projectKey>LaurenSinaPiccioni_fake_project</sonar.projectKey>
-  <sonar.organization>laurensinapiccioni</sonar.organization>
-  <sonar.host.url>https://squad-1-core.sc-dev.io</sonar.host.url>
-</properties>
 </project>
 
